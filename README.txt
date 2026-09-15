@@ -14,6 +14,6 @@ git add .
 git commit -m "Website aangepast"
 git push
 
-En voordat ze beginnen:
+En voordat je begint:
 
 git pull
