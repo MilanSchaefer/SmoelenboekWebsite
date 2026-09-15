@@ -1,5 +1,3 @@
-Zij doen alleen:
-
 Git installeren op hun computer
 VS Code openen
 Ctrl + Shift + P
