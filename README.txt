@@ -1,20 +1,21 @@
-SMOELENBOEK - FOTO'S TOEVOEGEN
+Zij doen alleen:
 
-Je hoeft alleen de foto's in deze map te zetten:
-medewerkers/images/
+Git installeren op hun computer
+VS Code openen
+Ctrl + Shift + P
+Git: Clone
 
-Gebruik precies deze bestandsnamen:
-persoon1.jpg
-persoon2.jpg
-persoon3.jpg
-persoon4.jpg
+Jouw GitHub-URL plakken:
 
-Dus:
-medewerkers/images/persoon1.jpg
-medewerkers/images/persoon2.jpg
-medewerkers/images/persoon3.jpg
-medewerkers/images/persoon4.jpg
+https://github.com/MilanSchaefer/SmoelenboekWebsite
 
-De website gebruikt deze foto's automatisch op de Nederlandse en Engelse teampagina's en op de profielpagina's.
+Na een wijziging:
+In Terminal:
 
-Let op: gebruik .jpg en houd de bestandsnamen exact hetzelfde.
+git add .
+git commit -m "Website aangepast"
+git push
+
+En voordat ze beginnen:
+
+git pull
