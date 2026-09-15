@@ -1,4 +1,4 @@
-Git installeren op hun computer
+Git installeren op jouw computer
 VS Code openen
 Ctrl + Shift + P
 Git: Clone
